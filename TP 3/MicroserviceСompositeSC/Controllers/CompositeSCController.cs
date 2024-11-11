@@ -80,6 +80,8 @@ public class CompositeSCController : ControllerBase
 
 
 
+
+
         [HttpGet("rating/{groupName}")]
         public async Task<RatingOfGroup> GetAverageGroupRatingAsync(string
     groupName)
