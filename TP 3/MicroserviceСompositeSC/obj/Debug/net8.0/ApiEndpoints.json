@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "Microservice\u0421ompositeSC.Controllers.CompositeSCController",
+    "Method": "Start",
+    "RelativePath": "api/CompositeSC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservice\u0421ompositeSC.Controllers.CompositeSCController",
+    "Method": "GetAverageGroupRatingAsync",
+    "RelativePath": "api/CompositeSC/rating/{groupName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microservice\u0421ompositeSC.Models.RatingOfGroup",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservice\u0421ompositeSC.Controllers.CompositeSCController",
+    "Method": "GetStudentsByGroupAsync",
+    "RelativePath": "api/CompositeSC/students/{groupName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroserviceStudent.Models.Student, Microservice\u0421ompositeSC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Microservice\u0421ompositeSC.Controllers.CompositeSCController",
+    "Method": "GetTeacherBySubjectAsync",
+    "RelativePath": "api/CompositeSC/teachers/{subject}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subject",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroserviceTeacher.Models.Teacher, Microservice\u0421ompositeSC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

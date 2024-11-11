@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tqrfXhSANvPmln2G+NTkmkr9Fs0E0m507U7yQDCsEMs=",
+  "Source": "MicroserviceTeacher",
+  "BasePath": "_content/MicroserviceTeacher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

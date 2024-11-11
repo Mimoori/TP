@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vUTvzVfBIziMmlOcJllKgVgPPOC0455H++wfgAlvPa0=",
+  "Source": "MicroserviceStudent",
+  "BasePath": "_content/MicroserviceStudent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
