@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\",
+  "WorkspaceRootPath": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\source\\repos\\tp 3\\microservice\u0441ompositesc\\controllers\\compositesccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\desktop\\tp\\tp\\tp 3\\microservice\u0441ompositesc\\controllers\\compositesccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|solutionrelative:microservice\u0441ompositesc\\controllers\\compositesccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\source\\repos\\tp 3\\microservice\u0441ompositesc\\contracts\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\desktop\\tp\\tp\\tp 3\\microservice\u0441ompositesc\\contracts\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|solutionrelative:microservice\u0441ompositesc\\contracts\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\source\\repos\\tp 3\\microservice\u0441ompositesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\desktop\\tp\\tp\\tp 3\\microservice\u0441ompositesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|solutionrelative:microservice\u0441ompositesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\source\\repos\\tp 3\\microservice\u0441ompositesc\\models\\ratingofgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\desktop\\tp\\tp\\tp 3\\microservice\u0441ompositesc\\models\\ratingofgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|solutionrelative:microservice\u0441ompositesc\\models\\ratingofgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\source\\repos\\tp 3\\microservice\u0441ompositesc\\models\\\u00ABratingofstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|c:\\users\\viktoria\\desktop\\tp\\tp\\tp 3\\microservice\u0441ompositesc\\models\\\u00ABratingofstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC3DA8-3A6D-4598-98DA-40E6E13CDE04}|Microservice\u0421ompositeSC\\Microservice\u0421ompositeSC.csproj|solutionrelative:microservice\u0441ompositesc\\models\\\u00ABratingofstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,63 +44,59 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Program.cs",
               "RelativeDocumentMoniker": "Microservice\u0421ompositeSC\\Program.cs",
-              "ToolTip": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Program.cs",
+              "ToolTip": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Program.cs",
               "RelativeToolTip": "Microservice\u0421ompositeSC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:00:48.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T14:00:48.473Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Contracts\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Contracts\\Student.cs",
               "RelativeDocumentMoniker": "Microservice\u0421ompositeSC\\Contracts\\Student.cs",
-              "ToolTip": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Contracts\\Student.cs",
+              "ToolTip": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Contracts\\Student.cs",
               "RelativeToolTip": "Microservice\u0421ompositeSC\\Contracts\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:53:39.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:53:39.181Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "\u00ABRatingOfStudent.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
               "RelativeDocumentMoniker": "Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
-              "ToolTip": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
+              "ToolTip": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
               "RelativeToolTip": "Microservice\u0421ompositeSC\\Models\\\u00ABRatingOfStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:53:30.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:53:30.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RatingOfGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
               "RelativeDocumentMoniker": "Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
-              "ToolTip": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
+              "ToolTip": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
               "RelativeToolTip": "Microservice\u0421ompositeSC\\Models\\RatingOfGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:42:29.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:42:29.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CompositeSCController.cs",
-              "DocumentMoniker": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
+              "DocumentMoniker": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
               "RelativeDocumentMoniker": "Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
-              "ToolTip": "C:\\Users\\Viktoria\\source\\repos\\TP 3\\Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
+              "ToolTip": "C:\\Users\\Viktoria\\Desktop\\TP\\TP\\TP 3\\Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
               "RelativeToolTip": "Microservice\u0421ompositeSC\\Controllers\\CompositeSCController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAhwFYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAhwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T08:46:05.617Z",
               "EditorCaption": ""
